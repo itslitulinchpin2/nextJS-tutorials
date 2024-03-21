@@ -1,4 +1,5 @@
 'use client'
+//THIS IS A CLIENT COMPONENT
 import { useState } from 'react';
 
 export default function LikeButton(){
